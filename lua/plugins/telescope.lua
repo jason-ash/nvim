@@ -41,5 +41,6 @@ return {
 		mapvimkey("<leader>ff", "Telescope find_files", "Find Files"),
 		mapvimkey("<leader>fg", "Telescope live_grep", "Live Grep"),
 		mapvimkey("<leader>fb", "Telescope buffers", "Find Buffers"),
+		mapvimkey("<leader>fw", "Telescope git_files", "Find working directory files"),
 	},
 }
